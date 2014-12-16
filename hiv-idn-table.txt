@@ -1,6 +1,8 @@
 #
 # .hiv IDN Table
 #
+# Source: https://github.com/dothiv/idn-table/
+#
 # This table is a compilation of the IDN tables
 #
 # - German (referenced by ISO 639-1)
