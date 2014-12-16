@@ -6,15 +6,15 @@ Further IDNs will be introduced subsequently, as .hiv addresses new linguistic a
 
 ## Launch scripts
 
- - German (referenced by ISO 639-1)
- - Danish (referenced by ISO 639-1)
- - Hungarian (referenced by ISO 639-1)
- - Icelandic (referenced by ISO 639-1)
- - Lithuanian (referenced by ISO 639-1)
- - Latvian (referenced by ISO 639-1)
- - Polish (referenced by ISO 639-1)
- - Swedish (referenced by ISO 639-1)
- - Spanish (referenced by ISO 639-1) 
+ - [German](./german-DE.txt) (referenced by ISO 639-1)
+ - [Danish](./danish-DA_0.txt) (referenced by ISO 639-1)
+ - [Hungarian](./hungarian-HU.txt) (referenced by ISO 639-1)
+ - [Icelandic](./icelandic-IS.txt) (referenced by ISO 639-1)
+ - [Latvian](./latvian-LV.txt) (referenced by ISO 639-1)
+ - [Lithuanian](./lithuanian-LT.txt) (referenced by ISO 639-1)
+ - [Polish](./polish-PL.txt) (referenced by ISO 639-1)
+ - [Swedish](./spanish-ES.txt) (referenced by ISO 639-1)
+ - [Spanish](./swedish-SV.txt) (referenced by ISO 639-1) 
 
 ## IDN Table
 
@@ -100,3 +100,7 @@ The following table is composed by combining the tables listed above:
 |U+017A|&#x017A;|LATIN SMALL LETTER Z WITH ACUTE|
 |U+017C|&#x017C;|LATIN SMALL LETTER Z WITH DOT ABOVE|
 |U+017E|&#x017E;|LATIN SMALL LETTER Z WITH CARON|
+
+## Download
+
+A raw version of this table is available [here](./hiv-idn-table.txt).
